@@ -6,7 +6,7 @@ class AwsDeveloperAssistant < Formula
   license ""
 
   def install
-    bin.install "aws-developer-assistant.phar" => "aws-developer-assistant"
+    bin.install "build/aws-developer-assistant.phar" => "aws-developer-assistant"
   end
 
   test do
