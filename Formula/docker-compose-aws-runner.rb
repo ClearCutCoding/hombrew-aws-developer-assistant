@@ -9,7 +9,7 @@ class DockerComposeAwsRunner < Formula
   license ""
 
   def install
-    bin.install "docker-compose-aws-runner.sh" => "docker-compose-aws-runner.sh"
+    bin.install "docker-compose-aws-runner.sh" => "docker-compose-aws-runner"
   end
 
   test do
