@@ -1,6 +1,3 @@
-# Documentation: https://docs.brew.sh/Formula-Cookbook
-#                https://rubydoc.brew.sh/Formula
-# PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
 class DockerComposeAwsRunner < Formula
   desc "Docker Compose AWS Runner"
   homepage "https://github.com/ClearCutCoding/docker-compose-aws-runner"

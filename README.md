@@ -23,3 +23,16 @@ $ brew install docker-compose-aws-runner
 ## Configuring
 
 https://github.com/ClearCutCoding/docker-compose-aws-runner
+
+# CI Runner
+
+## Installing
+
+```
+$ brew tap ClearCutCoding/homebrew-tap
+$ brew install ci-runner
+```
+
+## Configuring
+
+https://github.com/ClearCutCoding/ci-runner
