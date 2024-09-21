@@ -1,8 +1,8 @@
 class DockerComposeAwsRunner < Formula
   desc "Docker Compose AWS Runner"
   homepage "https://github.com/ClearCutCoding/docker-compose-aws-runner"
-  url "https://github.com/ClearCutCoding/docker-compose-aws-runner/archive/refs/tags/v2.0.1.tar.gz"
-  sha256 "fc8e6bd1591ee5148c5395a567e23dff95b9ec26698f737a39368f3a91917558"
+  url "https://github.com/ClearCutCoding/docker-compose-aws-runner/archive/refs/tags/v2.1.0.tar.gz"
+  sha256 "059a42d88205354a0aa43caa54626b094a7c82b73df6be1c0f058ec0aac86e6e"
   license ""
 
   def install
